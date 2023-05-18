@@ -48,5 +48,19 @@
 
 如果报`Your account was flagged for potential abuse`我这边是IP地址问题换了很多个IP地址可以了
 
-# [chat](https://chat.openai.com/)
+# [聊天开始chat网页](https://chat.openai.com/)
+
+
+
+# Chrome扩展
+
+- [翻译](https://github.com/openai-translator/openai-translator/blob/main/README-CN.md)
+
+# bot
+
+## 微信Bot
+
+- [Welcome to wechat-chatgpt 👋](https://github.com/fuergaosi233/wechat-chatgpt/blob/main/README_ZH.md)
+
+- ~~[ChatGPT-wechat-bot🤖](https://github.com/AutumnWhj/ChatGPT-wechat-bot)~~
 
