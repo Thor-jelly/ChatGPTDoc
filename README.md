@@ -12,21 +12,21 @@
 
 ## Gmail
 
-## Mail.com
-
-有几十个域名后缀可以选，很容易注册，不需要验证手机号码
-
 ## ProtonMail
 
 可以选proton.me或者protonmail.com后缀
+
+## skiff.com
+
+注册非常简单，不需要短信验证，可以添加三个邮箱别名。这样一个邮箱就可以注册四个ChatGPT账号。
 
 ## zoho.com
 
 可以用中国手机号码注册
 
-## skiff.com
+## Mail.com
 
-注册非常简单，不需要短信验证，可以添加三个邮箱别名。这样一个邮箱就可以注册四个ChatGPT账号。
+有几十个域名后缀可以选，很容易注册，需要验证手机号码
 
 ## aol.com
 
