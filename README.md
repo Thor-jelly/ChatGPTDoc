@@ -42,6 +42,8 @@
 
 我选的巴西手机号 。美国手机号都是虚拟的一直不能成
 
+![sms购买记录](https://github.com/Thor-jelly/ChatGPTDoc/blob/main/sms_activate.png)
+
 # [openai注册地址](https://beta.openai.com/signup)
 
 如果报`Your account was flagged for potential abuse`我这边是IP地址问题换了很多个IP地址可以了
